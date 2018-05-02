@@ -1,0 +1,3 @@
+INDEX VERSION 1.130+C:\Users\Prive J\Documents\.10-Florida Campus\7-PROGRAMACION\ECLIPSE-Workspace\.metadata\.plugins\org.eclipse.jdt.core
+1910997647.index
+3525159756.index
